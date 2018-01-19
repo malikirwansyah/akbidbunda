@@ -1,3 +1,4 @@
+Contoh sederhana penggunaan codeigniter pada pengolahan profil dan nilai akademik pada akademi kebidanan keluarga bunda 
 ###################
 What is CodeIgniter
 ###################
